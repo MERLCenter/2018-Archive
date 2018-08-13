@@ -6,3 +6,5 @@ All social scientists, data wonks, code monkeys, and anyone else with an interes
 <br>
 <br>
 New to Git or not sure where to begin? <a href="https://opensource.guide/how-to-contribute/">Check out this guide to contributing to an open source community</a> as a starting place. Or read this guide by <a href=https://github.com/freeCodeCamp/how-to-contribute-to-open-source>freeCodeCamp</a>.
+
+![alt text](http://merltech.org/wp-content/uploads/2017/04/MERLTech-logo-600x457.jpg)
