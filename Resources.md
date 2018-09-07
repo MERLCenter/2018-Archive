@@ -3,6 +3,10 @@
 [Flowing Data](http://www.flowingdata.com) - cross cutting blog that hits on design, tools, development processes and more  
 [New series from Ken Flerlage - SQL for Tableau](http://www.kenflerlage.com/2018/09/sql-part1.html) - highlighting how data viz developers can benefit from learning some basic coding skills  
 
+On being a better consumer of information:  
+[Visual Trumpery](https://www.dropbox.com/sh/tquq8igjtul5aou/AABry_NS4JRoXVeF2gLRC1zga/1SLIDES/OLDER?dl=0&preview=Jan_25_2018_BALTIMORE.pdf) slides from Alberto Cairo's lecture tour  
+[The Functional Art](http://www.thefunctionalart.com/) by Alberto Cairo  
+
 Blogs on dashboard design tricks (primarily Tableau-focused, but ideas can be more widely applied):  
 [Ryan Sleeper](http://www.ryansleeper.com)  
 [Viz Wiz](http://www.vizwiz.com) (Andy Kriebel)  
