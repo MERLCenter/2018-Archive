@@ -1,0 +1,34 @@
+// Dashboards and Data Visualization
+
+Big Book of Dashboards - great primer on dashboard development; examples are in Tableau workbooks but the concepts are widely applicable
+Flowing Data - cross cutting blog that hits on design, tools, development processes and more
+New series from Ken Flerlage - SQL for Tableau - highlighting how data viz developers can benefit from learning some basic coding skills
+
+Blogs on dashboard design tricks (primarily Tableau-focused, but ideas can be more widely applied):
+Ryan Sleeper - http://www.ryansleeper.com
+Viz Wiz (Andy Kriebel) - http://www.vizwiz.com
+Data + Science - http://www.dataplusscience.com
+
+Chart selection heirachies, for ideas on what chart to use when:
+Visual Vocabulary - https://www.vizwiz.com/2018/07/visual-vocabulary.html
+Data Viz Catalogue - http://www.datavizcatalogue.com
+Data Viz Project - http://www.datavizproject.com
+
+Blogs on data viz best practices:
+Policy Viz - http://www.policyviz.com
+Storytelling with Data - http://www.storytellingwithdata.com 
+Ann K Emery - http://www.annkemery.com
+Evergreen Data - http://www.evergreendata.com
+
+Inspiration for what to do (and not to do) in data viz design:
+WTF Visualizations
+Junk Charts
+Makeover Monday (#makeovermonday on Twitter)
+SWD Challenge (and #SWDchallenge on Twitter)
+Energy in America (Tableau dashboard example Amanda called out)
+
+// Data Science
+
+// Adaptive Management
+
+// GIS
